@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinaji Imesha</h1>
-<h3 align="center">Hello there! I'm Dinaji,An undergraduate student studying at ICBT University in Sri Lanka. Passionate about software engineering.</h3>
+<h3 align="center">A Passionate about software engineer student from sri lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinaji&label=Profile%20views&color=0e75b6&style=flat" alt="dinaji" /> </p>
 <picture> <img align="right" src="https://i.pinimg.com/736x/0f/6c/24/0f6c246ae315d0c59a4517f50986e289.jpg" width = 250px></picture>
