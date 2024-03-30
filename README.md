@@ -2,7 +2,7 @@
 <h3 align="center">Hello there! I'm Dinaji,An undergraduate student studying at ICBT University in Sri Lanka. Passionate about software engineering.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinaji&label=Profile%20views&color=0e75b6&style=flat" alt="dinaji" /> </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/736x/0f/6c/24/0f6c246ae315d0c59a4517f50986e289.jpg" width = 250px></picture>
 
 - 🔭 I’m currently working on **java**
 
