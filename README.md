@@ -17,12 +17,18 @@
 - <br>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/dinaji">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinaji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinaji&layout=compact&langs_count=8&theme=algolia"/> </br>
-</a>
-</p>
+ <br>
+  
+[![Dinaji's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dinaji&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Dinaji's github stats](https://github-readme-stats.vercel.app/api?username=dinaji&show_icons=true&theme=tokyonight) | ![dinaji GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinaji&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaji&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dinaji&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
 
 
   <h3 align="center">Connect with me:</h3>
