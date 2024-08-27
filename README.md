@@ -4,15 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinaji&label=Profile%20views&color=0e75b6&style=flat" alt="dinaji" /> </p>
 <picture> <img align="right" src="https://i.pinimg.com/736x/0f/6c/24/0f6c246ae315d0c59a4517f50986e289.jpg" width = 250px></picture>
 
-- 🔭 I’m currently following on **Software Engineering Degree at Cardiff Metropolitan University, Uk**
+- 🎓 I’m currently following on **Software Engineering Degree at Cardiff Metropolitan University, Uk**
 
-- 🌱 I’m currently learning **Computer Science and Engineering Higher diploma in ICBT Campus**
+- 📚 I’m currently learning **Computer Science and Engineering Higher diploma in ICBT Campus**
 
 - 🤝 I’m available for **Web develpoment,Mobile develpment,user interface design and freelancing(Adobe)**
 
 - 📫 How to reach me **dinajirajapaksha08@gmail.com**
 
-- ⚡ Fun fact **called me as a dina 😁**
+- ⚡ Fun fact **called me as a dina ❤️**
 
 - <br>
 ### ⚙️ &nbsp;GitHub Analytics
